@@ -1,2 +1,4 @@
 # twoarrays
-move two item between arrays. React js and redux
+move two item between arrays. 
+using React js and redux
+npm i > npm start
